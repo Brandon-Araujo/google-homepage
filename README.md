@@ -1,1 +1,3 @@
-This is my first project using HTML and CSS. I will be deconstructing the Google homepage and rebuilding it. Next add what you've learned.
+This is my first project using HTML and CSS. I will be deconstructing the Google homepage and rebuilding it. 
+
+The project has given me a deeper understanding of HTML and CSS. It has helped solidify what I have learned up to this point and I feel more confident using these two languages. I feel that I have a firmer grasp on CSS layout, particularly in the use of flexbox. It has been interesting to see how HTML and CSS work together and how versatile they are. 
